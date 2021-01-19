@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1611000995 source:c:\users\andre\documents\tcc\pic c++\pic_fluid\main.cpp
+	<stdlib.h>
+	<stdio.h>
+	<GL/glut.h>
+	<iostream>
+	"hybrid_solver.h"
+
+1426360528 c:\program files\codeblocks\mingw\include\gl\glut.h
+	"freeglut_std.h"
+
+1426360528 c:\program files\codeblocks\mingw\include\gl\freeglut_std.h
+	<windows.h>
+	<EGL/egl.h>
+	<GLES/gl.h>
+	<GLES2/gl2.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/gl.h>
+	<GL/glu.h>
+	<stdlib.h>
+
+1611000733 source:c:\users\andre\documents\tcc\pic c++\pic_fluid\solver.cpp
+
+1611001773 source:c:\users\andre\documents\tcc\pic c++\pic_fluid\hybrid_solver.cpp
+	<vector>
+	"hybrid_solver.h"
+	<cstdlib>
+	<bits/stdc++.h>
+
+1609869357 c:\users\andre\documents\tcc\pic c++\pic_fluid\hybrid_solver.cpp
+	<vector>
+
+1609940898 c:\users\andre\documents\tcc\pic c++\pic_fluid\hybrid_solver.h
+	<vector>
+
